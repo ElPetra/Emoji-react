@@ -1,0 +1,61 @@
+a {
+  text-decoration: none;
+  color: inherit;
+}
+.paginationWrapper {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  max-width: 1010px;
+  padding: 0 12px;
+  margin: 19px auto;
+}
+.pagination {
+  display: flex;
+}
+.pageItem {
+  color: #055160;
+  font-family: "Inter";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 16px;
+  display: flex;
+  padding: 12px 14px;
+  align-items: flex-start;
+  gap: 10px;
+  border: 1px solid #dee2e6;
+  background: #fff;
+}
+.active {
+  border: 1px solid #055160;
+  background: #055160;
+  color: #fff;
+}
+.disabled {
+  color: #abb5be;
+}
+.paginationControls {
+  display: flex;
+  align-items: baseline;
+  gap: 12px;
+  color: #000;
+  text-align: right;
+  font-family: "Inter";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21px;
+}
+.emojiPerPageSelect {
+  width: 120px;
+  height: 38px;
+  color: #6c757d;
+  font-family: "Inter";
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 21px;
+  border-radius: 4px;
+  border: 1px solid #ced4da;
+  background: #fff;
+  padding-left: 15px;
+  padding-right: 12px;
+}
