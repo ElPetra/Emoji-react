@@ -31,19 +31,19 @@ export function Main() {
   const currentEmoji = filteredData.slice(firstEmojiIndex, lastEmojiIndex);
 
   const paginate = (pageNumber) => {
-  setCurrentPage(pageNumber);
-  }
-  
+    setCurrentPage(pageNumber);
+  };
+
   const handlePerPageChange = (perPage) => {
     setEmojiPerPage(perPage);
-  }
+  };
 
   return (
     <section className="main">
       <input
         className="input"
         type="text"
-        placeholder="Placeholder"
+        placeholder="Enter keywords..."
         onChange={(event) => setSearchItem(event.target.value.toLowerCase())}
       />
       {/* <Input
@@ -77,4 +77,4 @@ export function Main() {
       />
     </section>
   );
-};
+}
