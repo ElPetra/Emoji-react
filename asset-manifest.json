@@ -1,24 +1,24 @@
 {
   "files": {
     "main.css": "/Emoji-react/static/css/main.96d35644.chunk.css",
-    "main.js": "/Emoji-react/static/js/main.2af840b9.chunk.js",
-    "main.js.map": "/Emoji-react/static/js/main.2af840b9.chunk.js.map",
-    "runtime-main.js": "/Emoji-react/static/js/runtime-main.9fecaafa.js",
-    "runtime-main.js.map": "/Emoji-react/static/js/runtime-main.9fecaafa.js.map",
-    "static/js/2.0b9b69ad.chunk.js": "/Emoji-react/static/js/2.0b9b69ad.chunk.js",
-    "static/js/2.0b9b69ad.chunk.js.map": "/Emoji-react/static/js/2.0b9b69ad.chunk.js.map",
-    "static/js/3.8429047d.chunk.js": "/Emoji-react/static/js/3.8429047d.chunk.js",
-    "static/js/3.8429047d.chunk.js.map": "/Emoji-react/static/js/3.8429047d.chunk.js.map",
+    "main.js": "/Emoji-react/static/js/main.68b9cf04.chunk.js",
+    "main.js.map": "/Emoji-react/static/js/main.68b9cf04.chunk.js.map",
+    "runtime-main.js": "/Emoji-react/static/js/runtime-main.8ac96fe1.js",
+    "runtime-main.js.map": "/Emoji-react/static/js/runtime-main.8ac96fe1.js.map",
+    "static/js/2.67473b34.chunk.js": "/Emoji-react/static/js/2.67473b34.chunk.js",
+    "static/js/2.67473b34.chunk.js.map": "/Emoji-react/static/js/2.67473b34.chunk.js.map",
+    "static/js/3.57899d38.chunk.js": "/Emoji-react/static/js/3.57899d38.chunk.js",
+    "static/js/3.57899d38.chunk.js.map": "/Emoji-react/static/js/3.57899d38.chunk.js.map",
     "index.html": "/Emoji-react/index.html",
-    "precache-manifest.64cee3588de226bb60c2fee035b3be39.js": "/Emoji-react/precache-manifest.64cee3588de226bb60c2fee035b3be39.js",
+    "precache-manifest.0300629c6eb9549bc04a69a3602b5f65.js": "/Emoji-react/precache-manifest.0300629c6eb9549bc04a69a3602b5f65.js",
     "service-worker.js": "/Emoji-react/service-worker.js",
     "static/css/main.96d35644.chunk.css.map": "/Emoji-react/static/css/main.96d35644.chunk.css.map",
-    "static/js/2.0b9b69ad.chunk.js.LICENSE.txt": "/Emoji-react/static/js/2.0b9b69ad.chunk.js.LICENSE.txt"
+    "static/js/2.67473b34.chunk.js.LICENSE.txt": "/Emoji-react/static/js/2.67473b34.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.9fecaafa.js",
-    "static/js/2.0b9b69ad.chunk.js",
+    "static/js/runtime-main.8ac96fe1.js",
+    "static/js/2.67473b34.chunk.js",
     "static/css/main.96d35644.chunk.css",
-    "static/js/main.2af840b9.chunk.js"
+    "static/js/main.68b9cf04.chunk.js"
   ]
 }
